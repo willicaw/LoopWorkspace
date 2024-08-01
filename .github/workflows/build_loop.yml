@@ -288,6 +288,8 @@ jobs:
           now_line \
           2002 \
           basal_lock \
+          meal_week \
+          2hlollipop \
           watch_title
 
           # the final customization listed above CANNOT have a continuation character "\"

@@ -292,7 +292,6 @@ jobs:
           meal_week \
           profiles \
           negative_insulin \
-          bolus_display \
           basal_lock
 
           # the final customization listed above CANNOT have a continuation character
